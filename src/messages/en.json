@@ -1,0 +1,93 @@
+{
+    "common": {
+        "siteName": "InkFinder",
+        "tagline": "Discover Your Perfect Tattoo Artist",
+        "loading": "Loading...",
+        "viewProfile": "View Profile",
+        "bookNow": "Book Now",
+        "search": "Search",
+        "clearFilters": "Clear Filters",
+        "noResults": "No artists found matching your criteria",
+        "featured": "Featured",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "about": "About",
+        "styles": "Styles",
+        "location": "Location",
+        "allRegions": "All Regions",
+        "allStyles": "All Styles",
+        "filterByRegion": "Filter by Region",
+        "filterByStyle": "Filter by Style",
+        "activeFilters": "Active Filters",
+        "artistsFound": "artists found",
+        "scrollToExplore": "Scroll to Explore"
+    },
+    "nav": {
+        "home": "Home",
+        "browse": "Browse Artists",
+        "about": "About",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Find Your",
+        "titleHighlight": "Ink Artist",
+        "subtitle": "Discover talented tattoo artists in your area. Filter by style, region, and find your perfect match.",
+        "cta": "Explore Artists",
+        "featuredArtist": "Featured Artist",
+        "discoverArtist": "Discover"
+    },
+    "browse": {
+        "title": "Browse Artists",
+        "subtitle": "Find the perfect artist for your next piece",
+        "filters": "Filters",
+        "showFilters": "Show Filters",
+        "hideFilters": "Hide Filters",
+        "resultsCount": "{count} artists found"
+    },
+    "artist": {
+        "bio": "About the Artist",
+        "viewPortfolio": "View Portfolio",
+        "instagram": "Instagram",
+        "website": "Website",
+        "booking": "Book Appointment",
+        "basedIn": "Based in",
+        "specializes": "Specializes in"
+    },
+    "footer": {
+        "rights": "All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "madeWith": "Made with"
+    },
+    "styles": {
+        "traditional": "Traditional",
+        "realism": "Realism",
+        "neo-traditional": "Neo-Traditional",
+        "watercolor": "Watercolor",
+        "geometric": "Geometric",
+        "blackwork": "Blackwork",
+        "fine-line": "Fine Line",
+        "japanese": "Japanese",
+        "tribal": "Tribal",
+        "dotwork": "Dotwork",
+        "minimalist": "Minimalist",
+        "portrait": "Portrait",
+        "new-school": "New School",
+        "chicano": "Chicano",
+        "trash-polka": "Trash Polka"
+    },
+    "regions": {
+        "west-coast": "West Coast",
+        "east-coast": "East Coast",
+        "midwest": "Midwest",
+        "south": "South",
+        "quebec": "Quebec",
+        "ontario": "Ontario",
+        "british-columbia": "British Columbia",
+        "prairies": "Prairies",
+        "atlantic": "Atlantic",
+        "europe": "Europe",
+        "asia": "Asia",
+        "australia": "Australia"
+    }
+}

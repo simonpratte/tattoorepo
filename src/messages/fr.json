@@ -1,0 +1,93 @@
+{
+    "common": {
+        "siteName": "InkFinder",
+        "tagline": "Découvrez Votre Artiste Tatoueur Idéal",
+        "loading": "Chargement...",
+        "viewProfile": "Voir le Profil",
+        "bookNow": "Réserver",
+        "search": "Rechercher",
+        "clearFilters": "Effacer les Filtres",
+        "noResults": "Aucun artiste trouvé correspondant à vos critères",
+        "featured": "En Vedette",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "about": "À Propos",
+        "styles": "Styles",
+        "location": "Emplacement",
+        "allRegions": "Toutes les Régions",
+        "allStyles": "Tous les Styles",
+        "filterByRegion": "Filtrer par Région",
+        "filterByStyle": "Filtrer par Style",
+        "activeFilters": "Filtres Actifs",
+        "artistsFound": "artistes trouvés",
+        "scrollToExplore": "Défiler pour Explorer"
+    },
+    "nav": {
+        "home": "Accueil",
+        "browse": "Parcourir les Artistes",
+        "about": "À Propos",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Trouvez Votre",
+        "titleHighlight": "Artiste Encre",
+        "subtitle": "Découvrez des artistes tatoueurs talentueux dans votre région. Filtrez par style, région, et trouvez votre match parfait.",
+        "cta": "Explorer les Artistes",
+        "featuredArtist": "Artiste en Vedette",
+        "discoverArtist": "Découvrir"
+    },
+    "browse": {
+        "title": "Parcourir les Artistes",
+        "subtitle": "Trouvez l'artiste parfait pour votre prochaine pièce",
+        "filters": "Filtres",
+        "showFilters": "Afficher les Filtres",
+        "hideFilters": "Masquer les Filtres",
+        "resultsCount": "{count} artistes trouvés"
+    },
+    "artist": {
+        "bio": "À Propos de l'Artiste",
+        "viewPortfolio": "Voir le Portfolio",
+        "instagram": "Instagram",
+        "website": "Site Web",
+        "booking": "Prendre Rendez-vous",
+        "basedIn": "Basé à",
+        "specializes": "Spécialisé en"
+    },
+    "footer": {
+        "rights": "Tous droits réservés.",
+        "privacy": "Politique de Confidentialité",
+        "terms": "Conditions d'Utilisation",
+        "madeWith": "Fait avec"
+    },
+    "styles": {
+        "traditional": "Traditionnel",
+        "realism": "Réalisme",
+        "neo-traditional": "Néo-Traditionnel",
+        "watercolor": "Aquarelle",
+        "geometric": "Géométrique",
+        "blackwork": "Blackwork",
+        "fine-line": "Ligne Fine",
+        "japanese": "Japonais",
+        "tribal": "Tribal",
+        "dotwork": "Dotwork",
+        "minimalist": "Minimaliste",
+        "portrait": "Portrait",
+        "new-school": "New School",
+        "chicano": "Chicano",
+        "trash-polka": "Trash Polka"
+    },
+    "regions": {
+        "west-coast": "Côte Ouest",
+        "east-coast": "Côte Est",
+        "midwest": "Midwest",
+        "south": "Sud",
+        "quebec": "Québec",
+        "ontario": "Ontario",
+        "british-columbia": "Colombie-Britannique",
+        "prairies": "Prairies",
+        "atlantic": "Atlantique",
+        "europe": "Europe",
+        "asia": "Asie",
+        "australia": "Australie"
+    }
+}
